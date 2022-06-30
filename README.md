@@ -1,4 +1,4 @@
-- 👋 Olá meu nome é @Everson244
+- 👋 Olá meu nome é @Everson244;
 - 👀 meu email de contato é everson244.alura@gmail.com.br
 - 🌱  estou interessado em aprender novas linguagens;
 - 💞️  estou aprendendo a progamar recentemente a linguagem de javaScripte Scrath; 
